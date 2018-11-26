@@ -1,6 +1,6 @@
-#Ola :wave:
+# Ola :wave:
 
-##Welcome to my first Express Project and my first time using NODE!
+## Welcome to my first Express Project and my first time using NODE!
 
 It displays parts of my San Diego Top Spots project in Node.  It also lets you navigate to the data.json folder if you wanted to see the raw data used for the Project
 
